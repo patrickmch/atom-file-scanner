@@ -3,7 +3,10 @@
     "atom-text-editor": [
       {
         "label": "Toggle my-package",
-        "command": "my-package:toggle"
+        "command": "my-package:toggle",
+        "label": "Files",
+        "command": "my-package:openFiles"
+
       }
     ]
   },
@@ -16,7 +19,9 @@
           "submenu": [
             {
               "label": "Toggle",
-              "command": "my-package:toggle"
+              "command": "my-package:toggle",
+              "label": "Files",
+              "command": "my-package:openFiles"
             }
           ]
         }

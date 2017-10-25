@@ -6,7 +6,8 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "my-package:toggle"
+    "atom-workspace": "my-package:toggle",
+    "atom-workspace": "my-package:openFiles"
   },
   "repository": "https://github.com/atom/my-package",
   "license": "MIT",

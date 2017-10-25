@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "my-package:toggle"
+    "ctrl-alt-o": "my-package:toggle",
+    "shift-alt-n": "my-package:openFiles"
   }
 }
