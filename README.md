@@ -9,3 +9,4 @@ To Do:
 * See if you can open files in search view in a similar way
 * Install it as an actual plugin for your testing use
 * Make a settings view with an option that allows people to customize their keymap
+* Add option to ignore certain files (ie .pyc)
