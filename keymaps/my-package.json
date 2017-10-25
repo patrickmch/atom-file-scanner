@@ -1,6 +1,5 @@
 {
-  "atom-workspace": {
-    "ctrl-alt-o": "my-package:toggle",
-    "shift-alt-n": "my-package:openFiles"
+  ".tree-view": {
+    "up": "my-package:openFiles"
   }
 }
