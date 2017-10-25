@@ -2,6 +2,7 @@ This is currently very much a WIP. So far scrolling up or down in the Fuzzy
 Finder will open a file in a pending view.
 
 To Do:
+* Change MyPackage to a nicer name
 * Clean up unused boilerplate
 * Test more to see what happens with big files (is it too slow?)
 * Make the code DRY(er)
