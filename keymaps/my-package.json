@@ -1,5 +1,6 @@
 {
   ".tree-view": {
-    "up": "my-package:openFiles"
+    "up": "my-package:open-file-up",
+    "down": "my-package:open-file-down"
   }
 }

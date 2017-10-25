@@ -4,8 +4,10 @@
       {
         "label": "Toggle my-package",
         "command": "my-package:toggle",
-        "label": "Files",
-        "command": "my-package:openFiles"
+        "label": "Open File Up",
+        "command": "my-package:open-file-up",
+        "label": "Open File Down",
+        "command": "my-package:open-file-down"
 
       }
     ]
@@ -18,10 +20,10 @@
           "label": "my-package",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "my-package:toggle",
-              "label": "Files",
-              "command": "my-package:openFiles"
+              "label": "Open File Up",
+              "command": "my-package:open-file-up",
+              "label": "Open File Down",
+              "command": "my-package:open-file-down"
             }
           ]
         }

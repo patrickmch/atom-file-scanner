@@ -7,7 +7,8 @@
   ],
   "activationCommands": {
     "atom-workspace": "my-package:toggle",
-    "atom-workspace": "my-package:openFiles"
+    "atom-workspace": "my-package:open-file-up",
+    "atom-workspace": "my-package:open-file-down"
   },
   "repository": "https://github.com/atom/my-package",
   "license": "MIT",
